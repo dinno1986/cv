@@ -1,11 +1,47 @@
 h3 {
-color:green; 
-font-family:serif;
-font-size: 24px;
+	font-family:serif;
+	font-size: 24px;
+	color : green;
+	text-decoration: underline;
 }
 
 header img {
 	width: 200px;
 	height: 200px;
 	}
+
+.etatcivil {
+	font-weight: bold;
+	font-family: georgia;
+}
+
+.metier {
+	text-align: center;
+}
+
+.connaissance{
+	font-style: italic;
+}
+
+.formation {
+	font-style: italic;
+
+}
+
+.experiences{
+	font-family: impact;
+}
+
+.competences{
+	font-family: arial black;
+}
+
+footer {
+	word-spacing: 15px;
+	text-align: right; 
+	color: red;
+}
+
+
+
 
